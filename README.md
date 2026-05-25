@@ -15,7 +15,7 @@
 Запусти скрипт на любом Linux-дистрибутиве (Debian/Ubuntu) одной командой:
 
 ```bash
-bash <(curl -sL https://githubusercontent.com)
+bash <(curl -sL https://github.com/MrVPNru/10101010100101011101010101010101010/blob/main/101010.sh)
 ```
 
 ## 📦 Зависимости
